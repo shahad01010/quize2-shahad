@@ -1,4 +1,5 @@
-
+// name :shahad hassan altalhi
+// ID
 
 // Java code for linearly search x in arr[]. If x
 
